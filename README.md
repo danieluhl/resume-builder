@@ -1,3 +1,11 @@
+## xata stuff
+» xata shell        Open a shell to the current database and branch
+» xata browse       Open the current database in the browser
+» xata schema edit  Edit the schema of the current database
+» xata random-data  Insert random data in the database
+» xata codegen      Generate code from the current database schemas
+
+
 # Astro Starter Kit: Basics
 
 ```

@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Typing-Turtle-s-workspace-gj1kd3.us-east-1.xata.sh/db/resume-builder",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
